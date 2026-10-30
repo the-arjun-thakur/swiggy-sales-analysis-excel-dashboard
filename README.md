@@ -14,6 +14,8 @@ An interactive Excel dashboard designed to analyze Swiggy's sales performance, c
 ![Swiggy Sales Dashboard](Screenshot 2026-10-30 123404.png)
 Screenshot 2026-10-30 123404.png
 
+![Image Description]([image-name.png](https://github.com/the-arjun-thakur/swiggy-sales-analysis-excel-dashboard/blob/main/Screenshot%202026-10-30%20123404.png))
+
 ### Key Performance Indicators
 
 - **Total Sales:** ₹53.01M
