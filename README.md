@@ -10,7 +10,7 @@ An interactive Excel dashboard designed to analyze Swiggy's sales performance, c
 
 ## 📊 Dashboard Preview
 
-![Swiggy Sales Dashboard](swiggy-dashboard.png)
+Screenshot 2026-10-30 123404.png
 
 ### Key Performance Indicators
 
