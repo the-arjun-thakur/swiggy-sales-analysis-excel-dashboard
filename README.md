@@ -8,8 +8,9 @@ An interactive Excel dashboard designed to analyze Swiggy's sales performance, c
 
 ### Dashboard Preview
 
-![Swiggy Sales Analysis Dashboard](<img width="1856" height="657" alt="Screenshot 2026-10-30 123404" src="https://github.com/user-attachments/assets/832b3ea3-301c-42b9-b3d3-25129c7a066c" />
-)
+## 📊 Dashboard Preview
+
+![Swiggy Sales Dashboard](swiggy-dashboard.png)
 
 ### Key Performance Indicators
 
